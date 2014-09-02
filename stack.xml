@@ -1,9 +1,0 @@
-<stack>
-  <description brief="cob_perception_data">cob_perception_data</description>
-  <author>Maintained by Robert Heinze</author>
-  <license></license>  
-  <review status="unreviewed" notes=""/>
-  <url>http://ros.org/wiki/cob_perception_data</url>
-  <depend stack="ros" />
-
-</stack>
