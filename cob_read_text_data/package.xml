@@ -1,0 +1,21 @@
+<package>
+  <name>cob_read_text_data</name>
+  <version>0.1.0</version>
+
+  <description>
+
+     training data for cob_read_text
+
+  </description>
+  <author>Robert Heinze</author>
+  <maintainer email="jsf@ipa.fhg.de">Jan Fischer</maintainer>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/cob_read_text_data</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>python-rospkg</build_depend>
+
+</package>
+
+
