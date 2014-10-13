@@ -1,0 +1,22 @@
+<package>
+	<name>cob_perception_data</name>
+	<version>0.1.0</version>
+	<description>
+		data for perception task e.g. training data 
+	</description>
+	<author>Maintained by Robert Heinze</author>
+	<maintainer email="jsf@ipa.fhg.de">Jan Fischer</maintainer>
+	<license>LGPL</license>
+	<url>http://ros.org/wiki/cob_perception_data</url>
+	
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<run_depend>cob_read_text_data</run_depend>
+	<run_depend>cob_tesseract_data</run_depend>
+
+	<export>
+		<metapackage />
+	</export>
+
+</package>
+

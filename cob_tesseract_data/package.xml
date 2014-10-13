@@ -1,0 +1,18 @@
+<package>
+  <name>cob_tesseract_data</name>
+  <version>0.1.0</version>
+  <description>
+
+     data for tesseract, a system dependency
+
+  </description>
+  <author>Robert Heinze</author>
+  <maintainer email="jsf@ipa.fhg.de">Jan Fischer</maintainer>
+  <license>BSD</license>
+  <url>https://code.google.com/p/tesseract-ocr/</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
+
+
